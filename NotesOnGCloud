@@ -1,0 +1,12 @@
+1. clone
+git clone https://github.com/GoogleCloudPlatform/nodejs-get
+
+2. 
+cd nodejs-getting-started/1-hello-world
+
+3. cat.
+cat app.js
+
+
+4. cat yaml
+cat app.yaml
