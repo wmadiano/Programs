@@ -21,14 +21,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wmadiano/NodeJsProjects.git"
+    "url": "git+https://github.com/wmadiano/Programs.git"
   },
   "keywords": [
     "aws",
     "ses"
   ],
   "bugs": {
-    "url": "https://github.com/wmadiano/NodeJsProjects/issues"
+    "url": "https://github.com/wmadiano/Programs/issues"
   },
-  "homepage": "https://github.com/wmadiano/NodeJsProjects#readme"
+  "homepage": "https://github.com/wmadiano/Programs#readme"
 }
